@@ -71,13 +71,19 @@ npm start
 > Make sure backend is running on port `5000` for proxying to work.
 
 ## 📸 Screenshots
-![SS-1](image.png)
-![SS-2](image-1.png)
-![SS-3](image-2.png)
+
+<img width="1919" height="727" alt="Screenshot 2025-08-03 040125" src="https://github.com/user-attachments/assets/b7df2291-ba19-42fa-883f-57d660657e24" />
+
+<img width="1914" height="980" alt="Screenshot 2025-08-03 040224" src="https://github.com/user-attachments/assets/070ed30f-9719-4a1e-9dc2-4fca3d84ca64" />
+
+<img width="1910" height="789" alt="Screenshot 2025-08-03 040310" src="https://github.com/user-attachments/assets/2367ca55-f60c-4eda-b86b-ccb274fb5e2d" />
+
+<img width="780" height="434" alt="Screenshot 2025-08-02 231804" src="https://github.com/user-attachments/assets/c790b06a-a5ff-4f1e-947e-50be2f09197f" />
 
 
 ## 📂 Sample Invoice PDF
-[PDF](Sample.pdf)
+[Sample.pdf](https://github.com/user-attachments/files/24089212/Sample.pdf)
+
 
 
 ## 🧹 Database Schema
